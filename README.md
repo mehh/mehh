@@ -10,15 +10,15 @@ With more than a decade of experience, I have become a leader in building teams 
 - 📫  How to reach me: hey@krischase.com or Twitter [@chasebadkids](twitter.com/chasebadkids)
 
 
-### 💼 Where i am currently working at/as
-- [OwlSec Technologies: VP of Technology](https://weareenvoy.com) 💼 
+### 💼 Where I'm currently working at/as
+- [We Are Envoy: VP of Technology](https://weareenvoy.com) 💼 
 - [Open World: Freelance](https://krischase.com)
 
-### 💻 What i am currently/done working on
+### 💻 What I'm currently/done working on
 - [StayHomeStaySane](https://stayhomestaysane.com)  🚀
 - [Kris & Rachael Get Married](https://krisandrachael.com/)  💍
 
-### 📖 What I am currently learning
+### 📖 What I'm currently learning
 - App Development
 - AI & Machine Learning
 - Cybersecurity and Ethical Hacking
@@ -30,6 +30,6 @@ With more than a decade of experience, I have become a leader in building teams 
 - [LinkedIn](https://www.linkedin.com/in/krisrchase/) 👨💼
 - [Website](https://krischase.com) 😏🔗
 
-![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=mehh&show_icons=true&theme=radical)
+![Kris's Github Stats](https://github-readme-stats.vercel.app/api?username=mehh&show_icons=true&theme=radical)
 
-<!-- ![Ajulus's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
+[Kris's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
