@@ -11,7 +11,7 @@ With more than a decade of experience, I have become a leader in building teams 
 
 
 ### 💼 Where I'm currently working at/as
-- [We Are Envoy: VP of Technology](https://weareenvoy.com) 💼 
+- [Envoy: VP of Technology](https://weareenvoy.com) 💼 
 - [Open World: Freelance](https://krischase.com)
 
 ### 💻 What I'm currently/done working on
@@ -30,6 +30,4 @@ With more than a decade of experience, I have become a leader in building teams 
 - [LinkedIn](https://www.linkedin.com/in/krisrchase/) 👨💼
 - [Website](https://krischase.com) 😏🔗
 
-![Kris's Github Stats](https://github-readme-stats.vercel.app/api?username=mehh&show_icons=true&theme=radical)
-
-[Kris's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Kris's Github Stats](https://github-readme-stats.vercel.app/api?username=mehh&show_icons=true&theme=dark)
