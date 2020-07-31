@@ -1,4 +1,5 @@
-<img src="https://krischase.com/static/kris_hero-442052b290afc66911ef14b943dae4c8.jpg" alt="Kris Chase" />
+<img align="right" src="https://krischase.com/" alt="Kris Chase" width=350px height=465px/>
+
 
 ### Hi, I'm Kris Chase 👋
 
