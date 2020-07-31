@@ -1,4 +1,4 @@
-<img align="right" src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/80703161_3633553393352036_7682017817461260288_o.jpg?_nc_cat=104&_nc_sid=dd7718&_nc_ohc=cMNQgIZZ3_sAX8Shar1&_nc_ht=scontent-lax3-1.xx&oh=a12638751997cb2f1e9fb4c857ef8293&oe=5F4B1570" alt="Kris Chase" width=350px height=465px/>
+<img align="right" src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/80703161_3633553393352036_7682017817461260288_o.jpg?_nc_cat=104&_nc_sid=dd7718&_nc_ohc=cMNQgIZZ3_sAX8Shar1&_nc_ht=scontent-lax3-1.xx&oh=a12638751997cb2f1e9fb4c857ef8293&oe=5F4B1570" alt="Kris Chase" width=320px height=420px/>
 
 
 ### Hi, I'm Kris Chase 👋
