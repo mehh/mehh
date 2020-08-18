@@ -14,6 +14,7 @@ With more than a decade of experience, I have become a leader in building teams 
 ### 💻 What I'm currently/done working on
 - [StayHomeStaySane](https://stayhomestaysane.com)  🚀
 - [Kris & Rachael Get Married](https://krisandrachael.com/)  💍
+- [Devin Chase CNOA](https://devinchasecnoa.com/)  👮
 
 ### 📖 What I'm currently learning
 - App Development
