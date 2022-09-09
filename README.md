@@ -1,4 +1,4 @@
-<img align="right" src="https://i.imgur.com/IS6FQne.jpeg" alt="Kris Chase" width=320px height=420px/>
+<img align="right" src="https://i.imgur.com/IS6FQne.jpeg" alt="Kris Chase" width=420px height=420px/>
 
 
 ### Hi, I'm Kris Chase 👋
