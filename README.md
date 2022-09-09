@@ -3,7 +3,7 @@
 
 ### Hi, I'm Kris Chase 👋
 
-With more than a decade of experience, I have become a leader in building teams and award winning digital experiences, through web development, IoT and apps. That’s not a brag, it’s a promise: to deliver tomorrow’s technology solutions — today. I currently work as VP of Technology at Envoy. 
+With more than 15 years of experience, I have become a leader in building teams and award winning digital experiences, through web development, IoT and apps. That’s not a brag, it’s a promise: to deliver tomorrow’s technology solutions — today. I currently work as VP of Software Engineering at Talent Systems. 
 
 - 💬  Ask me about Web development, App Development, IoT, Automation and Security.
 
