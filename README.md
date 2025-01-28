@@ -3,12 +3,12 @@
 
 ### Hi, I'm Kris Chase 👋
 
-With more than 20 years of experience, I have become a leader in building teams and award winning digital experiences, through web development, IoT and apps. That’s not a brag, it’s a promise: to deliver tomorrow’s technology solutions — today. I currently work as VP of Software Engineering at Talent Systems. 
+With more than 25 years of experience, I have become a leader in building teams and award winning digital experiences, through web development, IoT and apps. That’s not a brag, it’s a promise: to deliver tomorrow’s technology solutions — today. I currently work as VP of Software Engineering at Talent Systems. 
 
 - 💬  Ask me about Web development, App Development, IoT, Automation and Security.
 
 ### 💼 Where I'm currently working at/as
-- [Talent Systems.: VP of Software Engineering](https://talentsystems.com) 💼 
+- [Iverson: Head of Engineering](https://iverson.inc) 💼 
 - [Open World: Freelance](https://krischase.com)
 
 ### 💻 What I'm currently/done working on
