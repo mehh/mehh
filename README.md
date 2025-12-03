@@ -28,8 +28,7 @@ Let's just say: **If it can be built, I'll build it.** 💪
 
 ```typescript
 const kris = {
-  pronouns: "he/him",
-  location: "San Francisco Bay Area 🌉",
+  location: "Austin, Texas 🤠",
   role: "Fractional CTO & Engineering Leader",
   expertise: ["AI/ML", "Web3", "Full-Stack", "Mobile", "DevOps", "Security"],
   philosophy: "Ship fast, iterate faster, automate everything",
@@ -213,29 +212,6 @@ Frameworks & Tools:
   - OpenAI API, Anthropic Claude, HuggingFace
   - TensorRT, ONNX, SageMaker, Vertex AI
   - Vector Databases (Pinecone, Weaviate, Qdrant)
-```
-</details>
-
-<details>
-<summary><b>⛓️ Blockchain & Web3</b></summary>
-
-```yaml
-Smart Contract Development:
-  - Solidity (EVM) - Advanced patterns, security, gas optimization
-  - Rust (Solana, Substrate, Near)
-  - Move (Aptos, Sui)
-  
-Security & Cryptography:
-  - Smart contract auditing & formal verification
-  - Zero-Knowledge Proofs (ZKPs)
-  - ECDSA, MPC, HSM integration
-  - MEV protection strategies
-  
-Platforms & Tools:
-  - Ethereum, Polygon, BSC, Avalanche
-  - Substrate, Hyperledger
-  - Hardhat, Foundry, Truffle
-  - Web3.js, Ethers.js, viem
 ```
 </details>
 
@@ -485,14 +461,14 @@ I'm always interested in connecting with fellow builders, founders, and technica
 <br>
 
 [![Email Me](https://img.shields.io/badge/📧_Email_Me-hey@krischase.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hey@krischase.com)
-[![Schedule a Call](https://img.shields.io/badge/📞_Schedule_a_Call-Calendar-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](https://krischase.com)
+[![Schedule a Call](https://img.shields.io/badge/📞_Schedule_a_Call-Calendar-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](https://krischase.com/connect/)
 
 <br>
 
 ### 🌐 Social Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krisrchase)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chaseebadkids)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/krisrchase)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mehh.kris)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/imkrischase)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://krischase.com)
@@ -514,11 +490,6 @@ I'm always interested in connecting with fellow builders, founders, and technica
 <br>
 
 **⭐ If you find my work interesting, drop a star on my repos!**
-
-<br>
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
 </div>
 
 ---
