@@ -99,7 +99,155 @@ const kris = {
 ## 🚀 Featured Projects & Products
 
 <details open>
-<summary><b>🌟 Recent Builds (Click to expand)</b></summary>
+<summary><b>🌟 Production Apps & SaaS Products (Click to expand)</b></summary>
+<br>
+
+### 🛡️ **KinSafe**
+[![Visit Site](https://img.shields.io/badge/Visit-kinsafe.co-critical?style=flat-square&logo=shield&logoColor=white)](https://www.kinsafe.co)
+![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)
+
+Protecting families from remote access scams and banking fraud. Real-time monitoring and alerts to keep your loved ones safe from tech support scammers and financial predators.
+
+**Tech Stack:** Next.js, Real-time monitoring, Security APIs, Alert systems  
+**Impact:** Helping families prevent thousands in scam losses
+
+---
+
+### 🐝 **SafeBee**
+[![Visit Site](https://img.shields.io/badge/Visit-safebee.io-yellow?style=flat-square&logo=security&logoColor=white)](https://safebee.io)
+![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)
+
+AI-powered scam detection for emails and text messages. Upload suspicious messages and get instant threat analysis using advanced ML models.
+
+**Tech Stack:** Next.js, Python, NLP/ML, Pattern recognition, TensorFlow  
+**Features:** Real-time scanning, threat scoring, educational resources
+
+---
+
+### 🎬 **SelfTape Pro**
+[![Visit Site](https://img.shields.io/badge/Visit-selftapepro.io-purple?style=flat-square&logo=video&logoColor=white)](https://selftapepro.io)
+![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)
+
+Professional self-tape submission platform for actors. Upload audition tapes, get feedback from industry professionals, and improve your craft.
+
+**Tech Stack:** Next.js, Video processing, Cloud storage, Real-time feedback  
+**Users:** Hundreds of aspiring actors and casting directors
+
+---
+
+### 🎯 **Script Shredder**
+[![Visit Site](https://img.shields.io/badge/Visit-Live_Demo-FF6B6B?style=flat-square&logo=film&logoColor=white)](https://script-shredder20.vercel.app)
+![Status](https://img.shields.io/badge/Status-Beta-orange?style=flat-square)
+
+AI-powered script analysis tool. Upload movie, TV, or commercial scripts for automated scene breakdown, character analysis, and AI-generated character renders.
+
+**Tech Stack:** Next.js, GPT-4, Computer Vision, PDF parsing, Stable Diffusion  
+**Features:** Scene detection, character mapping, sentiment analysis, visual generation
+
+---
+
+### ⚡ **PromptBattle**
+[![Visit Site](https://img.shields.io/badge/Visit-promptbattle.dev-00D9FF?style=flat-square&logo=code&logoColor=white)](https://promptbattle.dev)
+![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)
+
+Competitive coding platform for the AI era. Build web experiences in as few prompts as possible. Compete with other developers, share strategies, and master prompt engineering.
+
+**Tech Stack:** Next.js, AI SDKs, Real-time leaderboards, Code evaluation  
+**Community:** Growing community of prompt engineers and vibe coders
+
+---
+
+### 🏭 **Factory Finder**
+[![Visit Site](https://img.shields.io/badge/Visit-factoryfinder.co-blue?style=flat-square&logo=map&logoColor=white)](https://www.factoryfinder.co)
+![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)
+
+Crowdsourced marketplace connecting businesses with Chinese manufacturers. Search, compare, and source products directly from verified factories.
+
+**Tech Stack:** Next.js, Maps integration, Database of manufacturers, Review system  
+**Database:** 10,000+ verified manufacturers across China
+
+</details>
+
+<details>
+<summary><b>💼 Client Work & Marketing Sites</b></summary>
+<br>
+
+### 💎 **Exfluential**
+[![Visit Site](https://img.shields.io/badge/Visit-exfluential.com-6366f1?style=flat-square)](https://exfluential.com)
+
+High-converting marketing website for influencer marketing SaaS platform. Built to attract brands and creators with modern design and clear value proposition.
+
+**Tech Stack:** Next.js, Tailwind CSS, Framer Motion, SEO optimization
+
+---
+
+### 🏗️ **BlancoLabel**
+[![Visit Site](https://img.shields.io/badge/Visit-blancolabel.io-8b5cf6?style=flat-square)](https://blancolabel.io)
+
+White-label design and development services showcase. Clean, professional site highlighting capabilities and portfolio.
+
+**Tech Stack:** Next.js, Tailwind CSS, CMS integration
+
+---
+
+### 🏛️ **National Cryptocurrency Association**
+[![Visit Site](https://img.shields.io/badge/Visit-nca.org-f59e0b?style=flat-square&logo=bitcoin&logoColor=white)](https://nca.org)
+
+Professional website for national crypto advocacy organization. Information hub for regulations, news, and industry resources.
+
+**Tech Stack:** Next.js, Headless CMS, Dynamic content
+
+---
+
+### 🧱 **CoBlocks**
+[![Visit Site](https://img.shields.io/badge/Visit-Live_Demo-10b981?style=flat-square)](https://coblocks-final.vercel.app)
+
+Marketing site for modular blockchain infrastructure. Modern, tech-forward design showcasing product features and use cases.
+
+**Tech Stack:** Next.js, Three.js, Advanced animations
+
+---
+
+### 🏡 **TMOD**
+[![Visit Site](https://img.shields.io/badge/Visit-tmod.com-14b8a6?style=flat-square&logo=home&logoColor=white)](https://tmod.com)
+
+Marketing website for modular home construction company. Showcasing sustainable, customizable housing solutions.
+
+**Tech Stack:** Next.js, 3D visualization, Interactive floor plans
+
+---
+
+### 🔄 **Xchange by Pneuma**
+[![Visit Site](https://img.shields.io/badge/Visit-xchangebypneuma.com-06b6d4?style=flat-square)](https://xchangebypneuma.com)
+
+Next.js-powered exchange platform website with modern design and smooth user experience.
+
+**Tech Stack:** Next.js, Tailwind CSS, Responsive design
+
+---
+
+### 🎮 **Xsolla Game Plan**
+[![Visit Site](https://img.shields.io/badge/Visit-gameplan.xsolla.com-ec4899?style=flat-square&logo=unity&logoColor=white)](https://gameplan.xsolla.com)
+
+Immersive 3D product discovery experience for gaming commerce platform. Interactive 3D environment for exploring Xsolla's product suite.
+
+**Tech Stack:** Next.js, Three.js, 3D modeling, Supabase, WebGL  
+**Highlights:** Award-winning interactive experience
+
+---
+
+### 🎨 **Xsolla Brand Refresh**
+[![Visit Site](https://img.shields.io/badge/Visit-xsolla.com-f43f5e?style=flat-square)](https://xsolla.com)
+
+Complete website redesign and reskin for global gaming commerce leader. Modern, scalable architecture supporting multiple languages and regions.
+
+**Tech Stack:** Next.js, Contentful CMS, i18n, Performance optimization  
+**Scale:** Serving millions of developers worldwide
+
+</details>
+
+<details>
+<summary><b>🎯 Personal & Community Projects</b></summary>
 <br>
 
 ### 🏠 **StayHomeStaySane**
@@ -107,21 +255,22 @@ const kris = {
 
 Mental health and wellness platform built during the pandemic to help people cope with isolation. Features AI-powered mood tracking, community support, and expert resources.
 
-**Tech Stack:** React, Node.js, PostgreSQL, AI/ML sentiment analysis
+**Tech Stack:** React, Node.js, PostgreSQL, AI/ML sentiment analysis  
+**Impact:** Helped thousands during lockdown
 
 ---
 
 ### 💍 **Kris & Rachael Get Married**
-[![Visit Site](https://img.shields.io/badge/Visit-krisandrachael.com-success?style=flat-square)](https://krisandrachael.com)
+[![Visit Site](https://img.shields.io/badge/Visit-krisandrachael.com-ff69b4?style=flat-square&logo=heart&logoColor=white)](https://krisandrachael.com)
 
-Beautiful, interactive wedding website with RSVP management, photo galleries, and real-time updates for guests.
+Beautiful, interactive wedding website with RSVP management, photo galleries, and real-time updates for guests. Built with love (literally).
 
-**Tech Stack:** Next.js, Tailwind CSS, Supabase
+**Tech Stack:** Next.js, Tailwind CSS, Supabase, Real-time updates
 
 ---
 
 ### 🎯 **Devin Chase CNOA**
-[![Visit Site](https://img.shields.io/badge/Visit-devinchasecnoa.com-success?style=flat-square)](https://devinchasecnoa.com)
+[![Visit Site](https://img.shields.io/badge/Visit-devinchasecnoa.com-0ea5e9?style=flat-square)](https://devinchasecnoa.com)
 
 Professional portfolio and certification showcase for Certified Nurse Operating Assistant credentials.
 
