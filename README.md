@@ -114,7 +114,7 @@ Let’s just say: **If it can be built, I’ll build it.**
 ---
 
 # 🌌 3D Contribution Graph (Dark Mode)
-![3D Contribution Graph](https://raw.githubusercontent.com/mehh/mehh/main/profile-3d-contrib/profile-night-green.svg)
+![3D Contribution Graph](./profile-3d-contrib/profile-night-green.svg)
 
 ---
 
@@ -126,14 +126,12 @@ Let’s just say: **If it can be built, I’ll build it.**
 ### 🛰️ Trophies (Dark)
 [![Trophies](https://github-profile-trophy.vercel.app/?username=mehh&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 🧮 Top Languages (Dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehh&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 📊 Contribution Activity Graph
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mehh&theme=github-compact&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 🏅 GitHub Profile Summary Cards
-![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehh&theme=github_dark)
-![Commit Stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehh&theme=github_dark)
+### 🧮 Top Languages & Commit Stats
+![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehh&theme=github_dark)
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehh&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehh&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&langs_count=8&card_width=445)
 
 ---
