@@ -88,7 +88,7 @@ const kris = {
 **Head of Engineering**  
 🔗 [iverson.inc](https://iverson.inc)
 
-*Scaling sports tech platform revolutionizing athlete development and performance tracking.*
+*Working on proof of concepts and software projects for multiple various high-profile clients.*
 
 </td>
 </tr>
